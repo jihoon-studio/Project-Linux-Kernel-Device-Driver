@@ -41,6 +41,12 @@
 
 ---
 
+## 회로도
+
+<img width="792" height="461" alt="image" src="https://github.com/user-attachments/assets/295eb4e2-1a50-40bf-a28b-c3ac280ef022" />
+
+---
+
 ## 기술 요소
 **Kernel / OS**
 
